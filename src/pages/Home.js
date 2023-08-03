@@ -5,8 +5,7 @@ import Footer from '../components/Footer';
 const Home = () => {
   return (
     <>
-    <Header />
-    
+    <Header />    
         <div id="carouselExampleIndicators" className="carousel slide col-8 flex text-center mx-auto my-5">
         <div className="carousel-indicators">
           <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
